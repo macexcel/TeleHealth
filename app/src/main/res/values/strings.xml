@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TeleHealth</string>
+    <string name="title_activity_user_dashboard">UserDashboard</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_1">Patient Info</string>
+    <string name="tab_text_2">History (Hx)</string>
+    <string name="tab_text_3">Allergies</string>
+</resources>
